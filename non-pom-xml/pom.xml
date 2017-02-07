@@ -1,0 +1,5 @@
+<xml>
+  <title>This is a valid XML file</title>
+  <but>This is not a valid pom.xml file</but>
+  <reason>So this can be used as a test fixture</reason>
+</xml>
